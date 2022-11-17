@@ -1,0 +1,49 @@
+git --version
+
+git config --list
+
+mkdir sumon   (creat a new folder)
+
+cd sumon (for der ar vitora dhukar jonno)
+
+git init   (git folder initlige korar jonno)
+
+git status  (Check git folder status)
+
+git add (All directory and sub derictory go to stage area)
+
+git add . ()
+
+git add file name 
+
+git diff (for show change )
+
+git commit
+
+git commit -m
+
+git log (for commit history)
+
+git add . && git commit m "message"   (aksatha stageing and local rep)
+
+git reset --soft HEAD^  ()
+
+git reset --hard HEAD^  ()
+
+git reset HEAD^  ()
+
+git commit "git commend.txt" -m "my real data"
+
+
+git log --oneline
+
+git show 
+
+git checkout (id)
+
+git checkout master
+
+.gitignore (ai file creat kora j j file & folder ar name dibo ta ta ar staging korba na)
+
+git remort add orgin (remort url)
+
