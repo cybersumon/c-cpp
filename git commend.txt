@@ -47,3 +47,17 @@ git checkout master
 
 git remort add orgin (remort url)
 
+git push
+
+git pull
+
+git branch dev (dev namar akta branch make korta )
+
+git checkou dev (master/main branch thaka dev branch a jata)
+
+git merge dev (branch ready hoya gala master k update korar jonno  )
+
+git branch -d dev (Branch delete korta)
+
+git checkout -b dve (branch creat and switch)
+
