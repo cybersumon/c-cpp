@@ -61,3 +61,5 @@ git branch -d dev (Branch delete korta)
 
 git checkout -b dve (branch creat and switch)
 
+git push -u orgin dev (branch thaka push korta)
+
