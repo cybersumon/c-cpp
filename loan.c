@@ -1,6 +1,10 @@
 #include<stdio.h>
 int main ()
 {
+    while (1)
+    {
+       
+    
     double loan_ammount,interest_rate,number_of_years,total_amount,monthly_amount;
     printf("Enter the loan amount : ");
     scanf("%lf",&loan_ammount);
@@ -17,4 +21,5 @@ int main ()
     printf("Total amount : %0.2lf\n",total_amount);
     printf("Monthly amount : %0.2lf\n",monthly_amount);
     return 0;
+    }
 }
