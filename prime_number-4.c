@@ -2,7 +2,7 @@
 #include <math.h>
 
 const int size = 40;
-int ara[];
+int ara[size];
 void print_ara()
 {
     int i;
