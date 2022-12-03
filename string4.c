@@ -13,3 +13,4 @@ str3[j] = '\0';
 printf("%s\n", str3);
 return 0;
 }
+

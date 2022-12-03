@@ -1,3 +1,5 @@
+//use add function with int returen type
+
 #include<stdio.h>
 
 int add(double num1,double num2)

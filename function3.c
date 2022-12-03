@@ -1,5 +1,4 @@
 //use add function with double returen type
-
 #include<stdio.h>
 
 double add(double num1,double num2)
@@ -16,5 +15,5 @@ int main()
     c = add(a,b);
     printf("%lf\n",c);
     return 0;
-
+    
 }
